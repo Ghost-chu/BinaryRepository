@@ -1,0 +1,24 @@
+-classpath
+'/home/travis/.m2/repository/org/spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/spigot-api-1.14.4-R0.1-SNAPSHOT.jar:/home/travis/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/travis/.m2/repository/com/google/guava/guava/21.0/guava-21.0.jar:/home/travis/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/home/travis/.m2/repository/net/md-5/bungeecord-chat/1.13-SNAPSHOT/bungeecord-chat-1.13-SNAPSHOT.jar:/home/travis/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar:/home/travis/.m2/repository/net/milkbowl/vault/VaultAPI/1.6/VaultAPI-1.6.jar:/home/travis/.m2/repository/net/tnemc/Reserve/0.1.0.12/Reserve-0.1.0.12.jar:/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/lib/OpenInv.jar:/home/travis/.m2/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar:/home/travis/.m2/repository/io/sentry/sentry/1.7.27/sentry-1.7.27.jar:/home/travis/.m2/repository/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.jar:/home/travis/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.9/jackson-core-2.9.9.jar:/home/travis/.m2/repository/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar:/home/travis/.m2/repository/fr/neatmonster/nocheatplus/3.16.1-SNAPSHOT/nocheatplus-3.16.1-SNAPSHOT.jar:/home/travis/.m2/repository/org/apache/httpcomponents/httpclient/4.5.8/httpclient-4.5.8.jar:/home/travis/.m2/repository/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11.jar:/home/travis/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/travis/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/travis/.m2/repository/org/kohsuke/github-api/1.95/github-api-1.95.jar:/home/travis/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar:/home/travis/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2.jar:/home/travis/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/home/travis/.m2/repository/commons-io/commons-io/1.4/commons-io-1.4.jar:/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/lib/Clearlag (2).jar:/home/travis/.m2/repository/com/meowj/LangUtils/2.2-SNAPSHOT/LangUtils-2.2-SNAPSHOT.jar:/home/travis/.m2/repository/me/lucko/luckperms/luckperms-api/4.4/luckperms-api-4.4.jar:/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/lib/PermissionsEx-1.23.4.jar:/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/lib/GroupManager.jar:/home/travis/.m2/repository/org/apache/clerezza/ext/org.json.simple/0.4/org.json.simple-0.4.jar:/home/travis/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar:/home/travis/.m2/repository/me/clip/placeholderapi/2.10.4/placeholderapi-2.10.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/src/main/java:/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'QuickShop Reremake 2.4.7 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/travis/build/Ghost-chu/QuickShop-Reremake/QuickShop-Reremake/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'QuickShop Reremake 2.4.7 API'
