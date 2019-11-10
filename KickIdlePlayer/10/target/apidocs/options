@@ -1,0 +1,25 @@
+-classpath
+'/home/travis/.m2/repository/org/spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/spigot-api-1.14.4-R0.1-SNAPSHOT.jar:/home/travis/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/travis/.m2/repository/com/google/guava/guava/21.0/guava-21.0.jar:/home/travis/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/home/travis/.m2/repository/net/md-5/bungeecord-chat/1.13-SNAPSHOT/bungeecord-chat-1.13-SNAPSHOT.jar:/home/travis/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar:/home/travis/.m2/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar:/home/travis/.m2/repository/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar:/home/travis/.m2/repository/net/ess3/EssentialsX/2.17.0/EssentialsX-2.17.0.jar:/home/travis/.m2/repository/io/papermc/paperlib/1.0.2/paperlib-1.0.2.jar:/home/travis/.m2/repository/net/ess3/NMSProvider/2.17.0/NMSProvider-2.17.0.jar:/home/travis/.m2/repository/net/ess3/UpdatedMetaProvider/2.17.0/UpdatedMetaProvider-2.17.0.jar:/home/travis/.m2/repository/net/ess3/1_8_R1Provider/2.17.0/1_8_R1Provider-2.17.0.jar:/home/travis/.m2/repository/net/ess3/1_8_R2Provider/2.17.0/1_8_R2Provider-2.17.0.jar:/home/travis/.m2/repository/net/ess3/LegacyProvider/2.17.0/LegacyProvider-2.17.0.jar:/home/travis/.m2/repository/net/ess3/ReflectionProvider/2.17.0/ReflectionProvider-2.17.0.jar:/home/travis/.m2/repository/org/bukkit/bukkit/1.12.2-R0.1-SNAPSHOT/bukkit-1.12.2-R0.1-SNAPSHOT.jar:/home/travis/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/travis/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/travis/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/travis/.m2/repository/net/ess3/FlattenedProvider/2.17.0/FlattenedProvider-2.17.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/travis/build/Ghost-chu/KickIdlePlayer/KickIdlePlayer/src/main/java:/home/travis/build/Ghost-chu/KickIdlePlayer/KickIdlePlayer/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/travis/build/Ghost-chu/KickIdlePlayer/KickIdlePlayer/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:false
+-doctitle
+'KickIdlePlayer 1.8 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/travis/build/Ghost-chu/KickIdlePlayer/KickIdlePlayer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'KickIdlePlayer 1.8 API'
