@@ -1,0 +1,11 @@
+== Built by Travis-CI ==
+Build Number [1619]
+Build Type [push]
+Tag []
+Commit [3160aa0abf28e54e778fbdb4bfe1439d84bde68f] - [Config helper to help user find where is broken in config.yml and tell user how fix it / let user use auto-config-fixer.
+
+Example:
+[QuickShop] Missing options in config.yml, the key [shop-blocks] not exist in config.yml, it may cause plugin errors, please fix it! There is guide for you to fix:
+.....
+shop-blocks: [CHEST, TRAPPED_CHEST, ENDER_CHEST]
+.....]
