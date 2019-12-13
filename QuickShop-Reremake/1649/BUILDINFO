@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1649]
+Build Type [push]
+Tag []
+Commit [f822fed513d7da19dd3cd951f0dd60f8e7598587] - [Fix updater size getter and remove useless methods in container.]
