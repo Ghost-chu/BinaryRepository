@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1648]
+Build Type [push]
+Tag []
+Commit [b9617330166b11d61e2a49839e730defa9093595] - [Reduce jar size, remove github-api and use http-api replaced]
