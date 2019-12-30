@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1718]
+Build Type [push]
+Tag []
+Commit [9c1d865c8b0502b084a36f8e188206a6141700ba] - [Close database after shutting down to fix DATABASE_BUSY]
