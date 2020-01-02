@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1719]
+Build Type [push]
+Tag []
+Commit [88446698ee4493b6698dac9b19455fefca537aa0] - [Remove dupe database close]
