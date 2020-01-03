@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1738]
+Build Type [push]
+Tag []
+Commit [b928c002bd8086a8ce33d98511678dc28335a336] - [Optimize logic for inventory check to prevent broke the plugin gui]
