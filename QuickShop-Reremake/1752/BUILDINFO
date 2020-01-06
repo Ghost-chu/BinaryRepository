@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1752]
+Build Type [push]
+Tag []
+Commit [9bc91ec026af33e2da3c01769bc90e0d32595cf9] - [Fix #285,Set character and collate to utf8mb4 by default if using MySQL]
