@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1751]
+Build Type [push]
+Tag []
+Commit [00219d261d314e2b499ef33987edfae9b6ecd03a] - [Add SQL to change messages column to utf8mB4]
