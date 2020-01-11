@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1767]
+Build Type [push]
+Tag []
+Commit [78edbb3968586132145431b2489fe43147b3965d] - [Fix sometimes MySQL data not changed if JDBC was set to autoCommit(false)]
