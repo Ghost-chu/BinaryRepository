@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1780]
+Build Type [push]
+Tag [v3.0.7]
+Commit [52b65d3821d1bfe04b838c7c86c00c72e52459b2] - [Switch to HttpRequest util.]
