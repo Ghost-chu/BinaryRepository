@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1775]
+Build Type [push]
+Tag [v3.0.5]
+Commit [dc567834f6628d3188458ce82259a094c2305397] - [Fix paste NPE]
