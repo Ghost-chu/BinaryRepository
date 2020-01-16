@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1788]
+Build Type [push]
+Tag []
+Commit [1c52b52f2babc0b2973fa5eae2aae3187f164d1a] - [Async download language file if it not finished in 20 secs]
