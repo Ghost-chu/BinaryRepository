@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1802]
+Build Type [push]
+Tag []
+Commit [31018fc4fd40ad511044b241325f8e8d462e549f] - [Remove "anonymous-metrics" settings, we no longer collect it]
