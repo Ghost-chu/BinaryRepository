@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1824]
+Build Type [push]
+Tag []
+Commit [5b6ccaa35f2a46f38f733da56be57f10b41d5a95] - [Fixes NPE, close GH-303]
