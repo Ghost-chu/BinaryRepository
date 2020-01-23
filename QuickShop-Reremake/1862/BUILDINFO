@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1862]
+Build Type [push]
+Tag []
+Commit [0e3a89fbed12566778718c4b9a200c9462f396ee] - [Fix thread safety issue on ongoing fee]
