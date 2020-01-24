@@ -1,0 +1,7 @@
+== Built by Travis-CI ==
+Build Number [1863]
+Build Type [push]
+Tag []
+Commit [1adf256dd2f0560cd51d70a5f73a3cc48d2c0bf6] - [Revert "Fixes thread safety"
+
+This reverts commit 752d5c72]
