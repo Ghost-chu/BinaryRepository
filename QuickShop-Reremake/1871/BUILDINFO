@@ -1,0 +1,7 @@
+== Built by Travis-CI ==
+Build Number [1871]
+Build Type [push]
+Tag []
+Commit [219e416ba6b279dbbe54d9467586980de291ed93] - [Revert "[untest] Rewrite & fix ItemMetaMatcher"
+
+This reverts commit 5b976c5f]
