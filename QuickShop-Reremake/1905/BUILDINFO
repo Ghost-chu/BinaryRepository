@@ -1,0 +1,7 @@
+== Built by Travis-CI ==
+Build Number [1905]
+Build Type [push]
+Tag []
+Commit [a16217e3e494713e0d668ead1481c4b6ac688bad] - [Merge pull request #324 from cakoyo/patch-3
+
+Fixes array2String, Close GH-323]
