@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1939]
+Build Type [push]
+Tag [3.1.3.12]
+Commit [0360082b22d2cf594e0242c07195b040fa7d8cf4] - [Optimize performance and default use fast algorithm]
