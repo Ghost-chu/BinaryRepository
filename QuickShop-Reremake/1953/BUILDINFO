@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [1953]
+Build Type [push]
+Tag []
+Commit [c77bceb1ea277d3df3b71c8a8ed88bce6c5d77fe] - [Install the checker for modded server, fix /qs paste didn't works if boot failed]
