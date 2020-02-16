@@ -1,0 +1,7 @@
+== Built by Travis-CI ==
+Build Number [2011]
+Build Type [push]
+Tag []
+Commit [dcaf2425cf2c814019fdfa93796aae93d0ffa35d] - [Merge pull request #342 from sandtechnology/master
+
+Always send fake item packet when query chunk]
