@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [2022]
+Build Type [push]
+Tag []
+Commit [cdf29f35fbec6a8e42827af500a2729005e4a961] - [Caching tax account offline player object to prevent trigger MojangAPI query]
