@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [2069]
+Build Type [push]
+Tag []
+Commit [05bc3df6bd9a63d70604f99995310a988d720756] - [Improve error reporter, and now allow user recover data from paste]
