@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [2068]
+Build Type [push]
+Tag []
+Commit [13da1fe38e5d59b170cb64c7128078a295abbbe0] - [Fully disable debug logger when debug disabled, fix explode protection bug]
