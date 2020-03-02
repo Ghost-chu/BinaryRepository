@@ -1,0 +1,5 @@
+== Built by Travis-CI ==
+Build Number [2087]
+Build Type [push]
+Tag []
+Commit [8b8aac92eca6f3e9528e349c60509c01b60ee07b] - [Revert DatabaseHelper and Manager changes, because it broken]
